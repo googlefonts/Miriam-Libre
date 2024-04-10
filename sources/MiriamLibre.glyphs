@@ -1,6 +1,9 @@
 {
 .appVersion = "3243";
 .formatVersion = 3;
+DisplayStrings = (
+"~"
+);
 axes = (
 {
 name = Weight;
@@ -62673,6 +62676,6 @@ GSDimensionPlugin.Dimensions = {
 };
 };
 };
-versionMajor = 1;
+versionMajor = 2;
 versionMinor = 0;
 }
