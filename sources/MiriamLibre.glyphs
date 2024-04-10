@@ -1,6 +1,9 @@
 {
 .appVersion = "3243";
 .formatVersion = 3;
+DisplayStrings = (
+"ȷ"
+);
 axes = (
 {
 name = Weight;
@@ -16900,6 +16903,158 @@ width = 384;
 }
 );
 unicode = 106;
+},
+{
+glyphname = jdotless;
+kernLeft = j;
+kernRight = j;
+lastChange = "2024-04-10 11:57:08 +0000";
+layers = (
+{
+guides = (
+{
+angle = 90;
+pos = (31,-135);
+}
+);
+hints = (
+{
+horizontal = 1;
+origin = (0,28);
+target = (0,21);
+type = Stem;
+},
+{
+horizontal = 1;
+origin = (0,8);
+target = (0,15);
+type = Stem;
+},
+{
+horizontal = 1;
+origin = (0,7);
+place = (566,115);
+type = Stem;
+},
+{
+origin = (0,17);
+target = (0,3);
+type = Stem;
+}
+);
+layerId = "DDABD3A5-4A8B-4D55-9B9E-1269DFBEF3A1";
+name = Regular;
+shapes = (
+{
+closed = 1;
+nodes = (
+(116,-193,ls),
+(206,-193,o),
+(260,-124,o),
+(260,-43,cs),
+(260,530,ls),
+(260,550,o),
+(244,566,o),
+(224,566,cs),
+(49,566,ls),
+(41,566,o),
+(35,560,o),
+(35,552,cs),
+(35,506,ls),
+(35,498,o),
+(41,492,o),
+(49,492,cs),
+(182,492,l),
+(182,-43,ls),
+(182,-90,o),
+(152,-121,o),
+(107,-121,cs),
+(49,-121,ls),
+(41,-121,o),
+(35,-127,o),
+(35,-135,cs),
+(35,-179,ls),
+(35,-187,o),
+(41,-193,o),
+(49,-193,cs)
+);
+}
+);
+width = 355;
+},
+{
+hints = (
+{
+horizontal = 1;
+origin = (0,28);
+target = (0,21);
+type = Stem;
+},
+{
+horizontal = 1;
+origin = (0,8);
+target = (0,15);
+type = Stem;
+},
+{
+horizontal = 1;
+origin = (0,7);
+place = (573,130);
+type = Stem;
+},
+{
+origin = (0,16);
+target = (0,4);
+type = Stem;
+},
+{
+origin = (0,17);
+target = (0,3);
+type = Stem;
+}
+);
+layerId = "1D8279CA-6213-4437-A9CB-DE6E86D89D97";
+name = Bold;
+shapes = (
+{
+closed = 1;
+nodes = (
+(133,-193,ls),
+(229,-193,o),
+(298,-121,o),
+(298,-22,cs),
+(298,523,ls),
+(298,551,o),
+(276,573,o),
+(248,573,cs),
+(52,573,ls),
+(40,573,o),
+(31,564,o),
+(31,552,cs),
+(31,478,ls),
+(31,466,o),
+(40,457,o),
+(52,457,cs),
+(178,457,l),
+(178,-22,ls),
+(178,-57,o),
+(157,-79,o),
+(124,-79,cs),
+(52,-79,ls),
+(40,-79,o),
+(31,-88,o),
+(31,-100,cs),
+(31,-172,ls),
+(31,-184,o),
+(40,-193,o),
+(52,-193,cs)
+);
+}
+);
+width = 384;
+}
+);
+unicode = 567;
 },
 {
 glyphname = k;
