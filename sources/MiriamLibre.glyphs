@@ -18,6 +18,10 @@ customParameters = (
 name = fsType;
 value = (
 );
+},
+{
+name = "Use Typo Metrics";
+value = 1;
 }
 );
 date = "2016-03-08 19:28:47 +0000";
@@ -291,7 +295,7 @@ visible = 1;
 },
 {
 axesValues = (
-800
+700
 );
 customParameters = (
 {
@@ -59462,6 +59466,18 @@ instanceInterpolations = {
 "DDABD3A5-4A8B-4D55-9B9E-1269DFBEF3A1" = 1;
 };
 name = Regular;
+},
+{
+axesValues = (
+700
+);
+instanceInterpolations = {
+"1D8279CA-6213-4437-A9CB-DE6E86D89D97" = 1;
+};
+isBold = 1;
+linkStyle = Regular;
+name = Bold;
+weightClass = 700;
 }
 );
 kerningLTR = {
